@@ -1,3 +1,6 @@
+//in this program i am trying to detect a rectangle and return its coordinate so that
+//drone gets a coordinate to go on
+
 import cv2
 import numpy as np
 def nothing(x):
